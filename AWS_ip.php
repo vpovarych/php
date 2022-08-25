@@ -3,6 +3,7 @@
 <body>
 <?php 
 echo 'Current region - VIRGINIA';
+echo '<br>';
 echo '<br>AWS server IP-address:  '.$_SERVER['SERVER_ADDR'];
 ?>
 </body>
